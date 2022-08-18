@@ -1,2 +1,2 @@
 # LiftingWeightCalcJava
-calculates lighting weight using your body weight 
+calculates lifting weight using your body weight 
